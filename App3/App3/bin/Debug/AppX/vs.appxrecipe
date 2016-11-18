@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-2QBF8HF</Machine>
+    <WindowsUser>Piotrek</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>10aefe82-1571-490c-a995-67787fefaa51</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Piotrek</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>9814A54C2D3F68DDAEEE0B472BE0B0137439D484DD11F91FE4B13BD34F6BE1B9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>10aefe82-1571-490c-a995-67787fefaa51_1.0.0.0_neutral__h7x2knkwcej8g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>10aefe82-1571-490c-a995-67787fefaa51_h7x2knkwcej8g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>10aefe82-1571-490c-a995-67787fefaa51</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Piotrek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-18T14:10:25.431</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App3.exe">
+      <PackagePath>App3.exe</PackagePath>
+      <Modified>2016-11-18T14:10:23.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App3.xr.xml">
+      <PackagePath>App3.xr.xml</PackagePath>
+      <Modified>2016-11-18T14:10:21.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-18T14:10:21.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+      <Modified>2016-11-18T14:10:21.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-11-18T14:10:21.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\piotrek\documents\visual studio 2015\Projects\App3\App3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-18T14:10:24.446</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
